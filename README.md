@@ -1,7 +1,9 @@
 # ldapy
 A web app to query an LDAP server for details of a username
 
-Consists of an HTML/Javascript frontend and a Python/Flask backend for performing the query. An Apache web server is required to bridge between HTTP and WSGI (required by Python/Flask). Of course, any HTTP server will do, but, the project provides configuration files for Apache.
+Yes...I know...there are likely other apps that already do this :) But I wanted the challenge of making my own!
+
+This app consists of an HTML/Javascript frontend and a Python/Flask backend for performing the query. An Apache web server is required to bridge between HTTP and WSGI (required by Python/Flask). Of course, any HTTP server will do, but, the project provides configuration files for Apache.
 
 Use install.sh to copy the files to their proper locations and to setup the Python virtual environment.
 
