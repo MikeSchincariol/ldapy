@@ -10,3 +10,7 @@ Use install.sh to copy the files to their proper locations and to setup the Pyth
 The installer is not super smart (yet) so you will have to scan the files and replace the string, {--CHANGE ME--} with the appropriate values. You will also have to setup the strings in config.py to match your LDAP server.
 
 Ldapy runs on port 2080 by default, but, you can change that to what ever you want by modifying the Apache virtual host configuration.
+
+To use it from the web browswer, enter the user name in the username box and click "Submit".
+
+![image](https://user-images.githubusercontent.com/16712901/156388413-2bc0f955-8cf7-4196-908a-6ae75da4537e.png)
