@@ -1,0 +1,21 @@
+# DO NOT COMMIT THIS FILE TO SCM
+
+# The URL, starting with http://, used to access the backend.
+# Example: http://my_server:2080
+BACKEND_URL=""
+
+# The URL, starting with ldap://, of the LDAP server to query.
+# Example: ldap://my_ldap_server.com
+LDAP_URL=""
+
+# The distinguished name and password password of the user that
+# will be used to create a bind.
+BIND_DN=""
+BIND_PASS=""
+
+# The starting point for the search
+SEARCH_BASE=""
+
+# A filter to pare down the list of items returned
+SEARCH_FILTER=""
+

@@ -1,0 +1,88 @@
+
+
+body {
+  /*font-family: 'Roboto', sans-serif;*/
+  box-shadow: 2px 2px 6px 2px rgba(0,0,0,0.3) ;
+  border-radius: 4px;
+}
+
+#headerbar {
+  height: 10%;
+  margin: 4px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: bold;
+  font-size:40px;
+  font-variant:small-caps;
+  color:#505050;
+  border-color:blue;
+  border-width:4px;
+  border-style:solid;
+  border-radius: 4px;
+}
+
+#searchbar {
+  height: 10%;
+  margin: 4px;
+  padding: 4px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-variant:small-caps;
+  font-size: 18px;
+  font-weight:bolder;  
+  border-color:blue;
+  border-width:1px;
+  border-style:solid;
+  box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.3) ;
+  border-radius: 4px;
+}
+
+#searchbar button {
+  margin: 2px;
+  padding:0px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-variant:small-caps;
+  font-size: 16px;
+  font-weight:bolder;
+
+}
+
+#resultsbar {
+  height: 70%;
+  margin: 4px;
+  color:#505050;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: bold;
+  font-size:25px;
+  font-variant:small-caps;
+  border-radius: 4px;
+}
+
+.attributeCard {
+  border-color:blue; 
+  border-radius: 4px;
+  color:black;
+  font-family: 'Source Code Pro', monospace;  
+  font-size:14px;
+  font-weight:normal;
+  font-variant:normal;
+  box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.3) ;
+}
+
+.attributeLegend {
+  color: blue;  
+  font-family: 'Roboto Mono', monospace;
+  font-size:14px;
+  font-weight: bold;
+}
+
+#footerbar {
+  height: 10%;
+  margin: 4px;  
+  border-color:blue;
+  border-width:4px;
+  border-style:solid;
+  border-radius: 4px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-variant:small-caps;
+  font-size: 18px;
+  font-weight:bolder;
+}
