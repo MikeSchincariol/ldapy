@@ -16,4 +16,4 @@ To use it from the web browser, enter the username in the username box and click
 ![image](https://user-images.githubusercontent.com/16712901/156388413-2bc0f955-8cf7-4196-908a-6ae75da4537e.png)
 
 Tweak the CSS if you don't like the look.
-Tweak the attributes that are requested from LDAP server in app.py if you want a different set.
+Tweak the attributes that are requested from LDAP server in app.py if you want a different set (the browswer Javascript should auto-adjust).
